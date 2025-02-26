@@ -4,3 +4,5 @@ wav2lip-env/
 # Ignore large binary files
 *.dll
 *.pyd
+*.lib
+*.pth
